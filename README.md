@@ -1,10 +1,10 @@
 
-# VoidAsMad
+# byeolki
 
 ### I think we're the ones who accept and follow this world without thinking about changing it<br/>
 
 ## Tech Stack
-<img src="https://img.shields.io/badge/python-4374D9?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/sqlite3-FFCA28?style=for-the-badge&logo=sqlite3&logoColor=white"><br/>
+<img src="https://img.shields.io/badge/python-4374D9?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/sqlite3-FFCA28?style=for-the-badge&logo=sqlite&logoColor=white"><br/>
 ## Stats
 ![byeolki's GitHub stats](https://github-readme-stats.vercel.app/api?username=byeolki&count_private=true)
 
