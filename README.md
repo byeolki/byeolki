@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**byeolki/byeolki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# VoidAsMad
 
-Here are some ideas to get you started:
+### I think we're the ones who accept and follow this world without thinking about changing it<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+<img src="https://img.shields.io/badge/python-4374D9?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/stlite3-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white"><br/>
+## Stats
+![byeolki's GitHub stats](https://github-readme-stats.vercel.app/api?username=byeolki&count_private=true)
+
+# Project
+## Discord
+### Main Bot
