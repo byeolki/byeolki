@@ -1,7 +1,7 @@
 
 # byeolki
 
-### I think we're the ones who accept and follow this world without thinking about changing it<br/>
+### i'm discord bot maker
 
 ## Stack
 <img src="https://img.shields.io/badge/python-4374D9?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/sqlite3-003B57?style=for-the-badge&logo=sqlite&logoColor=white"> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
