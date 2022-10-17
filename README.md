@@ -2,7 +2,7 @@
 # byeolki
 
 ### i'm discord bot maker, nextcord maker
-### 외주는 ! byeolki ⭐🔑#8761 로 DM 부탁드립니다
+### 외주 및 문의는 ! Byeolki#8761 로 DM 부탁드립니다
 
 ## Stack
 
