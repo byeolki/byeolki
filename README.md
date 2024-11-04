@@ -23,10 +23,13 @@
 </div>
 
 ## ⚡ Experience
+> Career History since 2024
+
 | Period | Organization | Role |
 |--------|-------------|------|
-| 20XX - Present | Company/University | Position/Major |
-| 20XX - 20XX | Company/University | Position/Major |
+| May 2024 - Present | [STUDIO T1QK:F](https://github.com/T1QKF) | Chief Executive Officer |
+| Feb 2024 - May 2024 | Team Libéntĭa | Project Leader |
+| Nov 2024 - Present | Team Luxeret | Team Member |
 
 ## 🔬 Research Interests
 - Deep Learning Architecture
