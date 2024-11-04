@@ -27,7 +27,7 @@
 
 | Period | Organization | Role |
 |--------|-------------|------|
-| May 2024 - Present | [STUDIO T1QK:F](https://github.com/T1QKF) | Chief Executive Officer |
+| May 2024 - Present | [STUDIO T1QK:F](https://github.com/T1QK-F) | Chief Executive Officer |
 | Feb 2024 - May 2024 | Team Libéntĭa | Project Leader |
 | Nov 2024 - Present | Team Luxeret | Team Member |
 
