@@ -9,12 +9,12 @@
 
 ### Primary
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch" />
 </div>
 
 ### Experience With
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,java,lua" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,java,lua,tensorflow" />
 </div>
 
 ## 📊 GitHub Analytics
