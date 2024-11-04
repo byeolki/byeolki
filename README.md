@@ -46,5 +46,5 @@
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
   &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=gmail" /> : byeolki7007@gmail.com
+  <img src="https://skillicons.dev/icons?i=gmail" />
 </div>
