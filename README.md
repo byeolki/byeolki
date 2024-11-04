@@ -45,10 +45,5 @@
 ![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
 
 ## 📫 Connect With Me
-<div align="left">
-  <a href="https://github.com/byeolki">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=gmail" />
-</div>
+- Discord: byeolki
+- Email: byeolki7007@gmail.com
