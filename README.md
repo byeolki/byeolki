@@ -19,7 +19,6 @@
 
 ## 📊 GitHub Analytics
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=byeolki&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=byeolki&theme=tokyonight" />
 </div>
 
@@ -36,22 +35,16 @@
 - Neural Networks
 
 ## 🛠 Development Environment
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+![Visual Studio](https://skillicons.dev/icons?i=visualstudio)
+![Git](https://skillicons.dev/icons?i=git)
+![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
 
 ## 📫 Connect With Me
 <div align="left">
-  <a href="mailto:byeolki7007@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white" />
-  </a>
   <a href="https://github.com/byeolki">
-    <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=github" />
   </a>
-</div>
-
----
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=byeolki&color=blueviolet&style=flat-square&label=Profile+Views" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=gmail" /> : byeolki7007@gmail.com
 </div>
