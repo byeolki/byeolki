@@ -35,6 +35,7 @@
 - Deep Learning Architecture
 - Computer Vision
 - Natural Language Processing
+- Voice Synthesis & Generation
 - Neural Networks
 
 ## 🛠 Development Environment
