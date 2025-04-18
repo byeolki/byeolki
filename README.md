@@ -3,7 +3,6 @@
 </div>
 
 ## 🌌 About Me
-[![trophy](https://github-profile-trophy.vercel.app/?username=byeolki&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 > Machine Learning Engineer focusing on Deep Learning research and development
 
 ## 🎯 Tech Stack
