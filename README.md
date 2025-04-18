@@ -3,6 +3,7 @@
 </div>
 
 ## 🌌 About Me
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 > Machine Learning Engineer focusing on Deep Learning research and development
 
 ## 🎯 Tech Stack
@@ -22,7 +23,6 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=byeolki&theme=tokyonight" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byeolki&layout=compact&langs_count=8&theme=tokyonight"/><br>
 </div>
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## ⚡ Experience
 > Career History since 2024
