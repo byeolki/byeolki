@@ -19,16 +19,6 @@
 
 ## 📊 GitHub Analytics
 <div>
-  <a href="https://github.com/Tanat05">
-    <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=byeolki&theme=tokyonight&rank_icon=github" />
-  </a>
-  
-  <a href="https://github.com/byeolki">
-    <img height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byeolki&layout=compact&langs_count=8&theme=tokyonight"/>
-  </a>
-</div>
-
-<div>
   <a href="https://solved.ac/byeolki">
     <img align="center" height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=byeolki" />
   </a>
