@@ -3,6 +3,7 @@
 </div>
 
 ## 🌌 About Me
+[wakatime](https://wakatime.com/badge/user/d10f0e11-3d2a-417b-a1a8-aeca5d4a9671.svg) <br>
 > Machine Learning Engineer focusing on Deep Learning research and development
 
 ## 🎯 Tech Stack
@@ -33,7 +34,6 @@
     <img align="center" height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=byeolki" />
   </a>
 </div>
-[![wakatime](https://wakatime.com/badge/user/d10f0e11-3d2a-417b-a1a8-aeca5d4a9671.svg)](https://wakatime.com/@d10f0e11-3d2a-417b-a1a8-aeca5d4a9671)
 
 ## ⚡ Experience
 > Career History since 2024
