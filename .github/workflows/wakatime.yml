@@ -2,7 +2,7 @@ name: WakaTime status update
 
 on:
   schedule:
-    # 매일 00:00에 업데이트 (UTC)
+    # Updates at 00:00 UTC daily
     - cron: '0 0 * * *'
   workflow_dispatch:
 
@@ -24,4 +24,4 @@ jobs:
           SHOW_EDITORS: "True"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_SHORT_INFO: "False"
-          LOCALE: "ko"
+          LOCALE: "en"  # Change this from "ko" to "en"
