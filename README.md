@@ -34,6 +34,9 @@
   </a>
 </div>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## ⚡ Experience
 > Career History since 2024
 
