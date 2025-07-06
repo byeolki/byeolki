@@ -43,13 +43,16 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   2 hrs 6 mins        █████████████████████████   98.70 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+shell script             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Zed                      2 hrs 8 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -62,7 +65,7 @@ Python                   7 repos             ███████████�
 
 
 
- Last Updated on 05/07/2025 01:04:19 UTC
+ Last Updated on 06/07/2025 01:13:31 UTC
 <!--END_SECTION:waka-->
 
 ## ⚡ Experience
