@@ -69,15 +69,6 @@ Python                   7 repos             ███████████�
  Last Updated on 08/07/2025 01:07:48 UTC
 <!--END_SECTION:waka-->
 
-## ⚡ Experience
-> Career History since 2024
-
-| Period | Organization | Role |
-|--------|-------------|------|
-| May 2024 - Present | [STUDIO T1QK:F](https://github.com/T1QK-F) | Chief Executive Officer |
-| Feb 2024 - May 2024 | Team Libéntĭa | Project Leader |
-| Nov 2024 - Present | Team Luxeret | Team Member |
-
 ## 🔬 Research Interests
 - Deep Learning Architecture
 - Computer Vision
