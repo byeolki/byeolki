@@ -14,7 +14,7 @@
 
 ### Experience With
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,java,lua,tensorflow,c,go,elixer" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,html,css,js,nodejs,ts,java,go,elixir,c,cpp,rust,r,lua" />
 </div>
 
 ## 📊 GitHub Analytics
