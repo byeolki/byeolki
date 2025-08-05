@@ -25,7 +25,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-84%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-84%20hrs%2037%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -63,7 +63,7 @@ Jupyter Notebook         8 repos             ███████████�
 
 
 
- Last Updated on 04/08/2025 01:18:00 UTC
+ Last Updated on 05/08/2025 01:14:18 UTC
 <!--END_SECTION:waka-->
 
 ## 🔬 Research Interests
