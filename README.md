@@ -43,13 +43,13 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Python                   5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Zed                      5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -62,7 +62,7 @@ Jupyter Notebook         8 repos             ███████████�
 
 
 
- Last Updated on 12/08/2025 01:06:01 UTC
+ Last Updated on 13/08/2025 01:07:24 UTC
 <!--END_SECTION:waka-->
 
 ## 🔬 Research Interests
