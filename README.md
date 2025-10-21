@@ -4,3 +4,9 @@
 
 ## 🌌 About Me
 > Machine Learning Engineer focusing on Deep Learning research and development
+
+<img
+  alt="Moe Counter!"
+  src="https://count.getloli.com/@pixelhize.github?name=pixelhize.github&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto"
+  width="80%"
+/>
