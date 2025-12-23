@@ -22,22 +22,8 @@ TypeScript               2 mins              █░░░░░░░░░░�
 Zed                      1 hr 19 mins        █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in Python** 
 
-```text
-Python                   18 repos            ████████████████████░░░░░   81.82 % 
-TypeScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/byeolki/byeolki/main/assets/bar_graph.png)
-
-
- Last Updated on 23/12/2025 00:10:03 UTC
+ Last Updated on 23/12/2025 00:12:26 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
