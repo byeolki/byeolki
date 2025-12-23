@@ -5,6 +5,9 @@
 ## 🌌 About Me
 > Machine Learning Engineer focusing on Deep Learning research and development
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <div align="center">
   <img
   alt="Moe Counter!"
