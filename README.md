@@ -6,8 +6,6 @@
 > Machine Learning Engineer focusing on Deep Learning research and development
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-166%20hrs%205%20mins-blue)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -23,7 +21,7 @@ Unknown Editor           39 mins             ████████░░░�
 ```
 
 
- Last Updated on 02/01/2026 01:10:41 UTC
+ Last Updated on 03/01/2026 01:05:46 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
