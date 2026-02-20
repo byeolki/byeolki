@@ -12,16 +12,14 @@
 
 ```text
 💬 Programming Languages: 
-shell script             8 mins              ████████████████░░░░░░░░░   63.05 % 
-TypeScript               4 mins              █████████░░░░░░░░░░░░░░░░   36.82 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Zed                      13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 19/02/2026 01:27:55 UTC
+ Last Updated on 20/02/2026 01:23:14 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
