@@ -12,18 +12,14 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               7 mins              ███████████░░░░░░░░░░░░░░   42.05 % 
-JavaScript               5 mins              ████████░░░░░░░░░░░░░░░░░   30.48 % 
-Prisma                   2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
-CSS                      1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
-Markdown                 1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Zed                      18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 01/03/2026 01:44:06 UTC
+ Last Updated on 02/03/2026 01:24:05 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
