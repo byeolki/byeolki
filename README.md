@@ -5,23 +5,6 @@
 ## 🌌 About Me
 > Machine Learning Engineer focusing on Deep Learning research and development
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-185%20hrs%2033%20mins-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 06/03/2026 01:26:57 UTC
-<!--END_SECTION:waka-->
-
 <div align="center">
   <img
   alt="Moe Counter!"
